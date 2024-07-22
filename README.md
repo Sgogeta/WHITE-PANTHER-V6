@@ -36,7 +36,7 @@
 
 </p>
 
-- <a href="https://github.com/GURUMD-TECH/WHITE-PANTHER-V6"><img title="Deploy On Render" src="https://img.shields.io/badge/DEPLOY ON HEROKU-h?color=yellow&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+- <a href="https://github.com/GURUMD-TECH/WHITE-PANTHER-V6"><img title="Deploy On Render" src="https://img.shields.io/badge/DEPLOY ON HEROKU-h?color=purple&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 
 
 
